@@ -5,7 +5,7 @@ Trang web WeatherApp là một ứng dụng thời tiết cho phép người dù
 
 -  Tích hợp giọng nói: Người dùng có thể sử dụng microphone để tìm kiếm thành phố muốn xem thời tiết ( cú pháp : "tại" + tên thành phố )
   
--  Cập nhật thời gian thực bằng chức năng tìm kiếm giọng nói: Ứng dụng sử dụng API OpenWeatherMap để lấy dữ liệu thời tiết mới nhất, hiển thị nhiệt độ và điều kiện thời tiết theo thời gian thực. (Mấy giờ rồi, bây h là mấy giờ,...)
+-  Cập nhật thời gian thực bằng chức năng tìm kiếm giọng nói: Ứng dụng sử dụng API OpenWeatherMap để lấy dữ liệu thời tiết mới nhất, hiển thị nhiệt độ và điều kiện thời tiết theo thời gian thực (Mấy giờ rồi, bây h là mấy giờ,...)
 
 -  Giao diện trực quan: Các biểu tượng thời tiết và thông tin hiển thị được thiết kế gọn gàng, dễ nhìn giúp người dùng dễ dàng theo dõi thông tin.
 
