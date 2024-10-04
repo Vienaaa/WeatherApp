@@ -1,5 +1,5 @@
 ﻿# WeatherApp
-Trang web WeatherApp của bạn là một ứng dụng thời tiết cho phép người dùng tra cứu thông tin thời tiết hiện tại của một địa điểm bất kỳ.
+Trang web WeatherApp là một ứng dụng thời tiết cho phép người dùng tra cứu thông tin thời tiết hiện tại của một địa điểm bất kỳ.
 
 -  Tìm kiếm thời tiết theo thành phố: Người dùng có thể nhập tên thành phố vào thanh tìm kiếm để nhận thông tin thời tiết chi tiết, bao gồm tình trạng thời tiết, nhiệt độ, độ ẩm, tốc độ gió, và giờ mặt trời mọc/lặn.
 
